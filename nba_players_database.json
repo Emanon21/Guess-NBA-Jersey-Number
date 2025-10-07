@@ -1,0 +1,98 @@
+
+[{
+    "name": "Stephen Curry",
+    "team": ["Warriors"],
+    "decade": [2010, 2020],
+    "number": [30]},
+
+    {"name": "Lebron James",
+     "team": ["Cavaliers", "Heat", "Lakers"],
+     "decade": [2000, 2010, 2020],
+     "number": [23, 6]},
+
+    {"name": "Kevin Durant",
+     "team": ["Thunder", "Warriors", "Nets", "Suns"],
+     "decade": [2000, 2010, 2020],
+     "number": [35, 7]},
+
+    {"name": "Michael Jordan",
+     "team": ["Bulls", "Wizards"],
+     "decade": [1980, 1990, 2000],
+     "number": [23, 45]},
+
+    {"name": "Larry Bird",
+     "team": ["Celtics"],
+     "decade": [1970, 1980],
+     "number": [33]},
+
+    {"name": "Jerry West",
+     "team": ["Lakers"],
+     "decade": [1960, 1970],
+     "number": [44]},
+
+    {"name": "Wilt Chamberlain",
+     "team": ["Lakers", "Warriors"],
+     "decade": [1960, 1970],
+     "number": [13]},
+
+     {"name": "Bill Russel",
+     "team": ["Celtics"],
+     "decade": [1950, 1960],
+     "number": [6]},
+
+     {"name": "Dwyane Wade",
+     "team": ["Heat", "Cavaliers", "Bulls"],
+     "decade": [2000, 2010],
+     "number": [3, 9]},
+
+     {"name": "Isiah Thomas",
+     "team": ["Pistons"],
+     "decade": [1980, 1990],
+     "number": [11]},
+
+     {"name": "Charles Barkley",
+     "team": ["Suns", "76ers", "Rockets"],
+     "decade": [1980, 1990],
+     "number": [32, 34, 4]},
+
+     {"name": "Hakeem Olajuwon ",
+     "team": ["Rockets", "Raptors"],
+     "decade": [1980, 1990],
+     "number": [34]},
+
+     {"name": "Dominique Wilkins",
+     "team": ["Hawks"],
+     "decade": [1980, 1990],
+     "number": [21]},
+
+     {"name": "Allen Iverson",
+     "team": ["76ers", "Pistons", "Nuggets"],
+     "decade": [1990, 2000],
+     "number": [3]},
+
+     {"name": "Tracy McGrady",
+     "team": ["Raptors", "Magic", "Rockets"],
+     "decade": [1990, 2000],
+     "number": [1, 3]},
+
+     {"name": "Nikola Jokic",
+     "team": ["Nuggets"],
+     "decade": [2010, 2020],
+     "number": [15]},
+
+     {"name": "Giannis Antetokounmpo",
+     "team": ["Bucks"],
+     "decade": [2010, 2020],
+     "number": [34]},
+
+     {"name": "Victor Wembanyama",
+     "team": ["Spurs"],
+     "decade": [2020],
+     "number": [1]},
+
+     {"name": "Walt Frazier",
+     "team": ["Knicks"],
+     "decade": [1960, 1970],
+     "number": [10]}
+
+]
